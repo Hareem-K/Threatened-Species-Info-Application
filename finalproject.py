@@ -1,7 +1,5 @@
 # Final Project
 # Hareem Khan, ENDG 233 F21
-# ID# 30140959
-# Group number L03-21
 # A terminal based application to process and plot threatened species data based on provided csv files and given user input
 
 
